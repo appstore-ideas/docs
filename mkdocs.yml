@@ -1,0 +1,64 @@
+site_name: appstore-ideas
+site_description: Privacy, support, and terms for our iOS apps.
+site_url: https://appstore-ideas.github.io/skincare-routine-public/
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: pink
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: pink
+      accent: pink
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+
+repo_url: https://github.com/appstore-ideas/skincare-routine-public
+repo_name: appstore-ideas/skincare-routine-public
+edit_uri: edit/main/docs/
+
+extra:
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:skincareroutine@omegion.dev
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Skincare Routine:
+      - apps/skincare-routine/index.md
+      - Privacy: apps/skincare-routine/privacy.md
+      - Support: apps/skincare-routine/support.md
+      - Terms: apps/skincare-routine/terms.md
