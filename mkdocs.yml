@@ -1,6 +1,6 @@
 site_name: appstore-ideas
 site_description: Privacy, support, and terms for our iOS apps.
-site_url: https://appstore-ideas.github.io/skincare-routine-public/
+site_url: https://appstore-ideas.github.io/docs/
 
 theme:
   name: material
@@ -33,8 +33,8 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
-repo_url: https://github.com/appstore-ideas/skincare-routine-public
-repo_name: appstore-ideas/skincare-routine-public
+repo_url: https://github.com/appstore-ideas/docs
+repo_name: appstore-ideas/docs
 edit_uri: edit/main/docs/
 
 extra:

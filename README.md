@@ -4,7 +4,7 @@ Privacy, support, and terms pages for our iOS apps. Built with
 [mkdocs-material](https://squidfunk.github.io/mkdocs-material/), deployed to
 GitHub Pages.
 
-Live: https://appstore-ideas.github.io/skincare-routine-public/
+Live: https://appstore-ideas.github.io/docs/
 
 ## Add a new app
 
