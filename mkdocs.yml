@@ -1,6 +1,6 @@
 site_name: appstore-ideas
 site_description: Privacy, support, and terms for our iOS apps.
-site_url: https://appstore-ideas.github.io/docs/
+site_url: https://app-docs.omegion.dev/
 
 theme:
   name: material

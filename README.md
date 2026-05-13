@@ -4,7 +4,7 @@ Privacy, support, and terms pages for our iOS apps. Built with
 [mkdocs-material](https://squidfunk.github.io/mkdocs-material/), deployed to
 GitHub Pages.
 
-Live: https://appstore-ideas.github.io/docs/
+Live: https://app-docs.omegion.dev/
 
 ## Add a new app
 
