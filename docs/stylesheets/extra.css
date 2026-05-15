@@ -11,43 +11,21 @@
   --md-typeset-a-color: #FF85B1;
 }
 
-/* App grid on the home page. */
-.app-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 1rem;
-  margin: 1.5rem 0;
-}
-
-.app-grid > a.app-card {
-  display: block;
-  padding: 1.25rem 1.5rem;
+/* Soften the grid cards on the home page with our brand pink. */
+.md-typeset .grid.cards > ul > li {
   border-radius: 16px;
-  border: 1px solid var(--md-default-fg-color--lightest);
-  background: var(--md-default-bg-color);
-  color: inherit;
-  text-decoration: none;
-  transition: transform 120ms ease, border-color 120ms ease;
+  transition:
+    transform 120ms ease,
+    border-color 120ms ease;
 }
 
-.app-grid > a.app-card:hover {
+.md-typeset .grid.cards > ul > li:hover {
   transform: translateY(-2px);
   border-color: var(--md-primary-fg-color);
 }
 
-.app-grid h3 {
-  margin: 0 0 0.25rem;
+.md-typeset .grid.cards h2,
+.md-typeset .grid.cards h3 {
   color: var(--md-primary-fg-color);
-}
-
-.app-grid p {
-  margin: 0;
-  color: var(--md-default-fg-color--light);
-}
-
-.app-grid .app-links {
-  margin-top: 0.75rem;
-  display: flex;
-  gap: 0.75rem;
-  font-size: 0.875rem;
+  margin-top: 0;
 }
