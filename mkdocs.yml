@@ -65,3 +65,8 @@ nav:
       - Privacy: apps/skincare-routine/privacy.md
       - Support: apps/skincare-routine/support.md
       - Terms: apps/skincare-routine/terms.md
+  - Hair Routine:
+      - apps/hair-routine/index.md
+      - Privacy: apps/hair-routine/privacy.md
+      - Support: apps/hair-routine/support.md
+      - Terms: apps/hair-routine/terms.md

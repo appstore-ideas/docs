@@ -22,8 +22,20 @@ Support, privacy, and terms for our iOS apps. Choose an app below.
     [Support](apps/skincare-routine/support.md) ·
     [Terms](apps/skincare-routine/terms.md)
 
+-   :material-hair-dryer-outline:{ .lg .middle } __Hair Routine__
+
+    ---
+
+    Weekly hair-care scheduler with wash days, treatments, product tracking, progress photos, and streak grace days.
+
+    [:octicons-arrow-right-24: Open](apps/hair-routine/index.md){ .md-button }
+
+    [Privacy](apps/hair-routine/privacy.md) ·
+    [Support](apps/hair-routine/support.md) ·
+    [Terms](apps/hair-routine/terms.md)
+
 </div>
 
 ---
 
-Need help with something else? [skincareroutine@omegion.dev](mailto:skincareroutine@omegion.dev)
+Need help with something else? [hairroutine@omegion.dev](mailto:hairroutine@omegion.dev)
