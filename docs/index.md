@@ -34,6 +34,18 @@ Support, privacy, and terms for our iOS apps. Choose an app below.
     [Support](apps/hair-routine/support.md) ·
     [Terms](apps/hair-routine/terms.md)
 
+-   :material-face-woman-outline:{ .lg .middle } __Acne Tracker__
+
+    ---
+
+    Forgiving acne journal with a personalized AM/PM routine, same-position photo timeline, ingredient checker, and trigger logging — no AI face scan.
+
+    [:octicons-arrow-right-24: Open](apps/acne-tracker/index.md){ .md-button }
+
+    [Privacy](apps/acne-tracker/privacy.md) ·
+    [Support](apps/acne-tracker/support.md) ·
+    [Terms](apps/acne-tracker/terms.md)
+
 </div>
 
 ---
