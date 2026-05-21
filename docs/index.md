@@ -46,6 +46,18 @@ Support, privacy, and terms for our iOS apps. Choose an app below.
     [Support](apps/acne-tracker/support.md) ·
     [Terms](apps/acne-tracker/terms.md)
 
+-   :material-sprout-outline:{ .lg .middle } __Follicle__
+
+    ---
+
+    Hair transplant recovery and loss treatment tracker. 3-angle photo timeline, transplant milestone cards, daily treatment log, and shedding check-ins — no AI, no fake scores.
+
+    [:octicons-arrow-right-24: Open](apps/follicle/index.md){ .md-button }
+
+    [Privacy](apps/follicle/privacy.md) ·
+    [Support](apps/follicle/support.md) ·
+    [Terms](apps/follicle/terms.md)
+
 </div>
 
 ---
