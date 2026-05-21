@@ -19,12 +19,17 @@ The third parties we use are:
   see it.
 - **Cloudflare Workers** *(optional, only if you enable photo analysis)* —
   our Worker endpoint receives the cropped photo, calls Google Gemini, and
-  returns the analysis. The Worker does not store the photo.
+  returns the analysis. The Worker does not store the photo. Cloudflare
+  operates under their [Privacy Policy](https://www.cloudflare.com/privacypolicy/)
+  and provides the same or equivalent level of protection for your data.
 - **Google Gemini** *(optional, only if you enable photo analysis)* — Google's
   AI model receives a cropped JPEG of your face to generate severity scores,
   region breakdowns, and lesion counts. Google acts as our sub-processor under
-  their [data processing terms](https://ai.google.dev/gemini-api/terms).
-  We pass only the image — no name, no account identifier, no location.
+  their [Gemini API Additional Terms of Service](https://ai.google.dev/gemini-api/terms)
+  and [Google Privacy Policy](https://policies.google.com/privacy), which
+  provide the same or equivalent level of protection for your data as described
+  in this policy. We pass only the image — no name, no account identifier, no
+  location.
 - **PostHog** — anonymous product analytics so we can understand how features
   are used and improve the app.
 
@@ -105,6 +110,10 @@ What we do **not** send:
 - Your name, email address, or any free-text you enter in the app.
 - The contents of your routine — products, ingredients, check-ins, or photos.
 - Precise location or advertising identifiers (IDFA).
+
+PostHog operates under their [Privacy Policy](https://posthog.com/privacy)
+and provides the same or equivalent level of protection for your data as
+described in this policy.
 
 You can opt out of analytics at any time in Settings → Privacy.
 
