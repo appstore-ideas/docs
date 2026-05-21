@@ -65,6 +65,8 @@ nav:
       - Privacy: apps/skincare-routine/privacy.md
       - Support: apps/skincare-routine/support.md
       - Terms: apps/skincare-routine/terms.md
+  - Acne Tracker:
+      - Privacy: apps/acne-tracker/privacy.md
   - Hair Routine:
       - apps/hair-routine/index.md
       - Privacy: apps/hair-routine/privacy.md
