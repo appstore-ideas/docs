@@ -77,3 +77,8 @@ nav:
       - Privacy: apps/acne-tracker/privacy.md
       - Support: apps/acne-tracker/support.md
       - Terms: apps/acne-tracker/terms.md
+  - Follicle:
+      - apps/follicle/index.md
+      - Privacy: apps/follicle/privacy.md
+      - Support: apps/follicle/support.md
+      - Terms: apps/follicle/terms.md
