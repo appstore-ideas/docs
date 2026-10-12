@@ -64,11 +64,11 @@ Support, privacy, and terms for our iOS apps. Choose an app below.
 
     Digestive health tracker with 10 log types — food photos, bowel movements (Bristol Scale), symptoms, water, meds, mood, sleep, and more. Trigger correlation engine and clinician PDF export. No AI. Your data stays on your device.
 
-    [:octicons-arrow-right-24: Open](apps/gut-diary/index.md){ .md-button }
+    [:octicons-arrow-right-24: Open](apps/gutdiary/index.md){ .md-button }
 
-    [Privacy](apps/gut-diary/privacy.md) ·
-    [Support](apps/gut-diary/support.md) ·
-    [Terms](apps/gut-diary/terms.md)
+    [Privacy](apps/gutdiary/privacy.md) ·
+    [Support](apps/gutdiary/support.md) ·
+    [Terms](apps/gutdiary/terms.md)
 
 </div>
 

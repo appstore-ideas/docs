@@ -83,7 +83,7 @@ nav:
       - Support: apps/follicle/support.md
       - Terms: apps/follicle/terms.md
   - Gut Diary:
-      - apps/gut-diary/index.md
-      - Privacy: apps/gut-diary/privacy.md
-      - Support: apps/gut-diary/support.md
-      - Terms: apps/gut-diary/terms.md
+      - apps/gutdiary/index.md
+      - Privacy: apps/gutdiary/privacy.md
+      - Support: apps/gutdiary/support.md
+      - Terms: apps/gutdiary/terms.md
