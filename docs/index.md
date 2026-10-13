@@ -70,6 +70,42 @@ Support, privacy, and terms for our iOS apps. Choose an app below.
     [Support](apps/gutdiary/support.md) ·
     [Terms](apps/gutdiary/terms.md)
 
+-   :material-head-snowflake-outline:{ .lg .middle } __Scalp Care: Dandruff Tracker__
+
+    ---
+
+    Scalp log, wash-day planner and flare patterns for a flaky, itchy or oily scalp. A leave-on timer for medicated products and a PDF report for your doctor or pharmacist. No AI, no photo scoring.
+
+    [:octicons-arrow-right-24: Open](apps/scalp-care/index.md){ .md-button }
+
+    [Privacy](apps/scalp-care/privacy.md) ·
+    [Support](apps/scalp-care/support.md) ·
+    [Terms](apps/scalp-care/terms.md)
+
+-   :material-moon-waning-crescent:{ .lg .middle } __Retinol Journey: Purge Log__
+
+    ---
+
+    A retinoid schedule you set, a Tonight card, a two-tap side-effect log and a week-by-week timeline. A PDF report for your clinician. No dosing advice, no AI.
+
+    [:octicons-arrow-right-24: Open](apps/retinol-journey/index.md){ .md-button }
+
+    [Privacy](apps/retinol-journey/privacy.md) ·
+    [Support](apps/retinol-journey/support.md) ·
+    [Terms](apps/retinol-journey/terms.md)
+
+-   :material-weather-sunny:{ .lg .middle } __Melasma & Dark Spot Tracker__
+
+    ---
+
+    Daily SPF check, a sun session with a reapply timer, a sun log, treatment cycles you enter and a monthly photo diary. A PDF report for your clinician. No diagnosis, no AI.
+
+    [:octicons-arrow-right-24: Open](apps/melasma-tracker/index.md){ .md-button }
+
+    [Privacy](apps/melasma-tracker/privacy.md) ·
+    [Support](apps/melasma-tracker/support.md) ·
+    [Terms](apps/melasma-tracker/terms.md)
+
 </div>
 
 ---

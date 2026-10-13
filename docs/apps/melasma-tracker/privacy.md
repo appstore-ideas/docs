@@ -1,0 +1,106 @@
+# Privacy Policy
+
+*Effective date: 2026-10-13*
+
+## Summary
+
+Melasma & Dark Spot Tracker is built to keep your data on your device. Your products, routines, check-ins, logs, badges and progress photos never leave your phone. The third parties we use are limited to:
+
+- **Apple**: App Store distribution and StoreKit purchase processing.
+- **Apple iCloud** *(optional, Premium only)*: if you turn on iCloud sync, your data is stored in your private iCloud container. We never see it.
+- **PostHog**: anonymous product analytics so we can understand how features are used and improve the app.
+
+We do not require any sign-in, do not link data to your name or Apple ID, and do not sell or share data for advertising.
+
+## Data we store on your device
+
+The following information is created and stored only on your iPhone, in the app's private storage:
+
+- Where you see pigmentation, how long, and whether you had hormonal changes
+- Your suspected triggers
+- Your SPF product and reapply interval
+- Sun log entries (SPF, reapplications, time outdoors, hat or shade, triggers)
+- Treatment cycles you enter
+- Display name (if you choose to enter one)
+- Products you add, including ingredients you provide
+- AM, PM and custom routines and daily check-ins
+- Progress photos you capture for the journal
+- Badge unlocks
+- App preferences (notification toggles, reminder times)
+
+We do not run any servers for the app, so none of this is transmitted to us. If you delete the app, this data is removed with it.
+
+## Reports you create
+
+Premium lets you create a PDF report. The PDF is built on your device and handed to the iOS share sheet. It goes only where you choose to send it (for example, Mail, Messages or Files). We never receive it. Once you share a report, the recipient's privacy practices apply.
+
+## iCloud sync (Premium, optional)
+
+Premium users can turn on iCloud sync from Settings. When enabled, the data listed above is stored in your private iCloud container and synced across your Apple devices.
+
+- iCloud sync is **off by default** and you can turn it off any time.
+- We do not have access to your iCloud data. Apple manages the storage and encryption. See Apple's [iCloud privacy overview](https://www.apple.com/legal/privacy/data/en/icloud/).
+- If your Premium subscription lapses, sync is paused but your local data is kept intact.
+- Photo files themselves stay on-device in V1; only their metadata is synced.
+
+## Purchases
+
+When you make a purchase inside Melasma & Dark Spot Tracker, the transaction is processed by Apple's StoreKit using your Apple ID. We never see your payment details.
+
+We use Apple's StoreKit directly to verify your subscription status. We do not use a third-party purchase processor. The receipt data Apple provides is read on-device to determine whether you are on the Free or Premium tier.
+
+## Product analytics
+
+We use [PostHog](https://posthog.com/) to collect anonymous product analytics so we can see which features get used and find bugs. PostHog acts as our sub-processor.
+
+What we send to PostHog:
+
+- An anonymous, randomly generated device identifier (no name, email or Apple ID).
+- App version and the iOS version you are on.
+- Event names like `onboarded`, `paywall_viewed` or `check_in`, with non-personal context such as counts, a plan name or a limit that was reached.
+
+What we do **not** send:
+
+- Your name, display name, email address, or any free text you enter in the app.
+- The contents of your logs: product names, ingredients, notes, check-ins, photos or reports.
+- Precise location.
+- Advertising identifiers (IDFA).
+
+PostHog's privacy practices are documented at [posthog.com/privacy](https://posthog.com/privacy). You can ask us to delete the analytics events tied to your device by emailing us. See [Your rights](#your-rights).
+
+## What we do not do
+
+- We do not require sign-in to use the app.
+- We do not track you across other apps or websites.
+- We do not use advertising identifiers.
+- We do not sell or share your data for marketing.
+- We do not collect crash reports.
+- We do not analyze or score your photos. Any on-screen guide is a positioning aid only. There is no face scan, skin scan or AI analysis.
+- We do not give medical advice. Anything the app flags is an organizational heads-up, not clinical guidance.
+
+## Permissions the app may request
+
+- **Camera**: to capture progress photos for the journal and to scan product barcodes. The camera feed is processed locally and never streamed off-device.
+- **Photo library**: only when you pick a photo for the journal.
+- **Notifications**: for morning SPF and evening routine reminders, the reapply reminder during a sun session, treatment-cycle phase reminders (Premium) and per-product reminders (Premium). All schedules are local. You can disable any of these in the app's Reminders screen.
+
+## Children
+
+Melasma & Dark Spot Tracker is not directed to children under 13. We do not knowingly collect information from children.
+
+## Your rights
+
+You can remove all of your on-device data at any time by deleting the app.
+
+For data held by our sub-processor (PostHog) or by Apple, email [melasma@omegion.dev](mailto:melasma@omegion.dev) and we will help you delete it, subject to each provider's policies. We typically respond within seven days.
+
+Depending on where you live, you may have additional rights under GDPR, CCPA or other privacy laws, including the right to access, correct or export your data. Use the contact email above to make any such request.
+
+## Changes
+
+If this policy changes materially, the effective date above will be updated. The current version is always available at this URL.
+
+## Contact
+
+Questions, requests or concerns:
+[melasma@omegion.dev](mailto:melasma@omegion.dev)

@@ -87,3 +87,18 @@ nav:
       - Privacy: apps/gutdiary/privacy.md
       - Support: apps/gutdiary/support.md
       - Terms: apps/gutdiary/terms.md
+  - Scalp Care:
+      - apps/scalp-care/index.md
+      - Privacy: apps/scalp-care/privacy.md
+      - Support: apps/scalp-care/support.md
+      - Terms: apps/scalp-care/terms.md
+  - Retinol Journey:
+      - apps/retinol-journey/index.md
+      - Privacy: apps/retinol-journey/privacy.md
+      - Support: apps/retinol-journey/support.md
+      - Terms: apps/retinol-journey/terms.md
+  - "Melasma & Dark Spot Tracker":
+      - apps/melasma-tracker/index.md
+      - Privacy: apps/melasma-tracker/privacy.md
+      - Support: apps/melasma-tracker/support.md
+      - Terms: apps/melasma-tracker/terms.md
