@@ -1,6 +1,6 @@
 # Terms of Use
 
-*Effective date: 2026-10-13*
+*Effective date: 2026-10-17*
 
 By installing or using Retinol Journey ("the App"), you agree to these terms. If you do not agree, please uninstall the App.
 
@@ -22,7 +22,7 @@ The App offers Premium access through auto-renewing subscriptions:
 - **Premium Monthly**: billed monthly
 - **Premium Yearly**: billed annually
 
-Both unlock the same Premium features. Subscriptions automatically renew at the end of each billing period until cancelled at least 24 hours before the period ends. Your Apple ID account is charged at the price displayed at purchase.
+Both unlock the same Premium features and both support Apple Family Sharing, so family members in your Family Sharing group can use Premium on their own Apple IDs. Subscriptions automatically renew at the end of each billing period until cancelled at least 24 hours before the period ends. Your Apple ID account is charged at the price displayed at purchase.
 
 You can manage or cancel your subscription at any time in **Settings -> Apple ID -> Subscriptions** on your iPhone. Cancellation takes effect at the end of the current billing period; the App does not issue partial refunds for unused time.
 
@@ -36,7 +36,20 @@ Anything you enter in the App (products, routines, logs, photos, notes) belongs 
 
 ## Health disclaimer
 
-Retinol Journey is a tracking tool, not medical advice. It does not diagnose skin conditions, tell you what dose or product to use, or say that a breakout is a purge. Many people see more breakouts in the first weeks of a retinoid, but the app cannot tell you what is happening on your skin. If a reaction is strong, or continues, please talk to a doctor, pharmacist or dermatologist.
+Retinol Journey is a tracking tool, not medical advice. This includes the photo check. It does not diagnose skin conditions, tell you what dose or product to use, or say that a breakout is a purge. Many people see more breakouts in the first weeks of a retinoid, but the app cannot tell you what is happening on your skin. If a reaction is strong, or continues, please talk to a doctor, pharmacist or dermatologist.
+
+## Photo check
+
+Premium includes an optional photo check. It sends the photos you pick to our service and to Google's Gemini to get a short description of what looks visible. By using it you agree that:
+
+- You will only use photos of yourself.
+- The description is general information, not a diagnosis, not medical advice and not a reason to start, stop or change a product.
+- Results can be wrong. Light, angle and photo quality change how skin looks.
+- We may limit how often you can use it.
+- You tell us to process the two photos each time you tap **Analyze progress**. Photos are never sent automatically.
+- We do not store your photos or the result on our server, and we do not use them to train any model.
+
+See the [Privacy Policy](privacy.md#photo-check-premium-optional) for what happens to your photos.
 
 ## No warranty
 

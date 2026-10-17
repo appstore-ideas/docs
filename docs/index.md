@@ -86,7 +86,7 @@ Support, privacy, and terms for our iOS apps. Choose an app below.
 
     ---
 
-    A retinoid schedule you set, a Tonight card, a two-tap side-effect log and a week-by-week timeline. A PDF report for your clinician. No dosing advice, no AI.
+    A retinoid schedule you set, a Tonight card, a two-tap side-effect log and a week-by-week timeline. A PDF report for your clinician. An optional photo check that describes what looks visible, only when you ask. No dosing advice.
 
     [:octicons-arrow-right-24: Open](apps/retinol-journey/index.md){ .md-button }
 

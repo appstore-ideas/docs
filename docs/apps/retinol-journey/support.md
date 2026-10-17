@@ -17,8 +17,14 @@ Premium unlocks:
 - A PDF report for your clinician
 - Full ingredient overlap check across your shelf
 - Reminders only on your retinoid nights
+- Photo check on two compared photos
 - Unlimited products and photos, before and after compare
 - Monthly reports, product goals and iCloud sync
+- Family Sharing, so your family can use Premium too
+
+### Does Premium work with Family Sharing?
+
+Yes. If you subscribe, the people in your Apple Family Sharing group can use Premium on their own Apple IDs, at no extra cost. Family Sharing needs to be on for Retinol Journey in Settings -> Apple ID -> Family Sharing -> Subscriptions. Each person keeps their own data. Nothing is shared between phones except the Premium access.
 
 ### Monthly or yearly?
 
@@ -38,11 +44,15 @@ If a streak grace day is available, the app protects the day automatically (Free
 
 ### Where are my photos stored?
 
-Locally on your device, in the app's private storage. They are never uploaded unless you turn on iCloud sync (Premium). If you delete the app, the photos are removed with it.
+Locally on your device, in the app's private storage. They are not uploaded, unless you turn on iCloud sync (Premium) or use the photo check on two photos. If you delete the app, the photos are removed with it.
 
 ### Does the app analyze my photos?
 
-No. We never analyze or score your photos. The journal is just a place to keep consistent progress photos that you control entirely.
+Only if you ask. Premium has a photo check. Open Compare, pick two photos and tap Analyze progress. The app asks you to agree first, then sends those two photos to our service and Google's Gemini. You get a short description of what looks visible: dryness, peeling, redness and breakouts, and whether each looks lower, similar or higher. It does not score your skin, and it is not medical advice. Nothing is analyzed in the background. We do not keep your photos on our server or use them to train models. See the [Privacy Policy](privacy.md#photo-check-premium-optional) for details.
+
+### The photo check failed. What can I do?
+
+Check your connection and tap Try again. If you see a message about today's limit, wait a day. If it keeps failing, email us with your app version.
 
 ### Who sees my PDF report?
 
